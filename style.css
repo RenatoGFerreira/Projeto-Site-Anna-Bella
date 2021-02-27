@@ -20,3 +20,16 @@ a{
     font-weight: bold; 
     padding: 15px;
 }
+
+.centralizar{
+    text-align: center;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
