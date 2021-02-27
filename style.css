@@ -20,6 +20,10 @@ a{
     font-weight: bold; 
     padding: 15px;
 }
+a:hover{
+    color: white;
+    transition: .4s;
+}
 
 .centralizar{
     text-align: center;
@@ -32,4 +36,8 @@ a{
 h1{
     color: #828271;
     font-size: 1.2em;
+}
+p{
+    text-align: justify;
+    padding-right: 20px;
 }
